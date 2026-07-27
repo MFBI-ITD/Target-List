@@ -60,3 +60,11 @@ metrics.viber.com
 logs.viber.com
 rakutenviber.com
 www.rakutenviber.com
+vb.me
+viberdns.com
+d1xxq97x9s9j5v.cloudfront.net
+d3c1cr7yudt4h6.cloudfront.net
+d2q1xv8f7h2z9k.cloudfront.net
+viber.production.dualstack.edgekey.net
+e12345.dscb.akamaiedge.net
+e67890.akamaiedge.net
