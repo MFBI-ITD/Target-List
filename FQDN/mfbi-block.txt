@@ -1,0 +1,1593 @@
+# ==========================================================
+# SOCIAL MEDIA
+# ==========================================================
+
+# Facebook
+ facebook.com
+ www.facebook.com
+ m.facebook.com
+ mbasic.facebook.com
+ touch.facebook.com
+ business.facebook.com
+ developers.facebook.com
+ messenger.com
+ www.messenger.com
+ fb.com
+ www.fb.com
+
+# Instagram
+ instagram.com
+ www.instagram.com
+ m.instagram.com
+ l.instagram.com
+
+# X / Twitter
+ x.com
+ www.x.com
+ twitter.com
+ www.twitter.com
+ mobile.twitter.com
+ m.twitter.com
+ tweetdeck.twitter.com
+
+# TikTok
+ tiktok.com
+ www.tiktok.com
+ vm.tiktok.com
+ m.tiktok.com
+
+# Reddit
+ reddit.com
+ www.reddit.com
+ old.reddit.com
+ np.reddit.com
+ i.reddit.com
+
+# Pinterest
+ pinterest.com
+ www.pinterest.com
+
+# Snapchat
+ snapchat.com
+ www.snapchat.com
+ accounts.snapchat.com
+
+# Threads
+ threads.net
+ www.threads.net
+
+# Tumblr
+ tumblr.com
+ www.tumblr.com
+
+# Discord
+ discord.com
+ www.discord.com
+ discord.gg
+ discordapp.com
+
+# Telegram
+ telegram.org
+ web.telegram.org
+ t.me
+
+# WhatsApp
+ whatsapp.com
+ www.whatsapp.com
+ web.whatsapp.com
+
+# WeChat
+ wechat.com
+ www.wechat.com
+
+# Line
+ line.me
+ www.line.me
+
+# Viber
+ viber.com
+ www.viber.com
+
+# Signal
+ signal.org
+ www.signal.org
+
+# Mastodon
+ mastodon.social
+ joinmastodon.org
+
+# Bluesky
+ bsky.app
+ blueskyweb.xyz
+
+# Quora
+ quora.com
+ www.quora.com
+
+# VK
+ vk.com
+ www.vk.com
+
+# Weibo
+ weibo.com
+ www.weibo.com
+
+# Douyin
+ douyin.com
+ www.douyin.com
+
+# Xiaohongshu
+ xiaohongshu.com
+ www.xiaohongshu.com
+
+# Meetup
+ meetup.com
+ www.meetup.com
+
+# Nextdoor
+ nextdoor.com
+ www.nextdoor.com
+
+# Flickr
+ flickr.com
+ www.flickr.com
+
+# DeviantArt
+ deviantart.com
+ www.deviantart.com
+
+# Amino
+ aminoapps.com
+ www.aminoapps.com
+
+# Gab
+ gab.com
+ www.gab.com
+
+# Truth Social
+ truthsocial.com
+ www.truthsocial.com
+
+# Parler
+ parler.com
+ www.parler.com
+
+# ==========================================================
+# SEARCH ENGINES
+# ==========================================================
+
+# Google Search
+ google.com
+ www.google.com
+ encrypted.google.com
+ search.google.com
+ google.com.ph
+ www.google.com.ph
+ google.co.uk
+ google.ca
+ google.com.au
+ google.co.jp
+
+# Bing
+ bing.com
+ www.bing.com
+ cn.bing.com
+
+# Yahoo Search
+ search.yahoo.com
+ yahoo.com
+ www.yahoo.com
+
+# DuckDuckGo
+ duckduckgo.com
+ www.duckduckgo.com
+ start.duckduckgo.com
+
+# Yandex
+ yandex.com
+ www.yandex.com
+ yandex.ru
+ www.yandex.ru
+ ya.ru
+
+# Baidu
+ baidu.com
+ www.baidu.com
+ m.baidu.com
+
+# Ecosia
+ ecosia.org
+ www.ecosia.org
+
+# Brave Search
+ search.brave.com
+ brave.com
+
+# Startpage
+ startpage.com
+ www.startpage.com
+
+# Qwant
+ qwant.com
+ www.qwant.com
+
+# Ask
+ ask.com
+ www.ask.com
+
+# AOL Search
+ search.aol.com
+ aol.com
+ www.aol.com
+
+# Dogpile
+ dogpile.com
+ www.dogpile.com
+
+# WebCrawler
+ webcrawler.com
+ www.webcrawler.com
+
+# Info.com
+ info.com
+ www.info.com
+
+# Swisscows
+ swisscows.com
+ www.swisscows.com
+
+# Mojeek
+ mojeek.com
+ www.mojeek.com
+
+# SearXNG Public Instances
+ searx.be
+ searx.tiekoetter.com
+ search.ononoki.org
+
+# Naver Search
+ search.naver.com
+ naver.com
+ www.naver.com
+
+# Daum Search
+ search.daum.net
+ daum.net
+
+# Seznam
+ seznam.cz
+ search.seznam.cz
+
+# Goo Search
+ goo.ne.jp
+
+# Rambler
+ rambler.ru
+ nova.rambler.ru
+
+# Sogou
+ sogou.com
+ www.sogou.com
+
+# Shenma
+ sm.cn
+
+# Yep Search
+ yep.com
+ www.yep.com
+
+# You.com
+ you.com
+ www.you.com
+
+# Perplexity
+ perplexity.ai
+ www.perplexity.ai
+
+# Andi
+ andisearch.com
+ www.andisearch.com
+
+# Metager
+ metager.org
+ www.metager.org
+
+# Search Encrypt
+ searchencrypt.com
+ www.searchencrypt.com
+
+# ==========================================================
+# WEB EMAIL
+# ==========================================================
+
+# Gmail
+ gmail.com
+ www.gmail.com
+ mail.google.com
+ inbox.google.com
+
+# Yahoo Mail
+ mail.yahoo.com
+ yahoo.com
+ www.yahoo.com
+
+# Proton Mail
+ proton.me
+ mail.proton.me
+ protonmail.com
+ account.proton.me
+
+# Zoho Mail
+ zoho.com
+ www.zoho.com
+ mail.zoho.com
+ accounts.zoho.com
+
+# AOL Mail
+ mail.aol.com
+ aol.com
+ www.aol.com
+
+# GMX
+ gmx.com
+ www.gmx.com
+ mail.gmx.com
+ myaccount.gmx.com
+
+# Mail.com
+ mail.com
+ www.mail.com
+ email.mail.com
+
+# Fastmail
+ fastmail.com
+ www.fastmail.com
+ app.fastmail.com
+
+# Tutanota / Tuta
+ tuta.com
+ www.tuta.com
+ app.tuta.com
+ tutanota.com
+ mail.tutanota.com
+
+# iCloud Mail
+ icloud.com
+ www.icloud.com
+ mail.icloud.com
+
+# Yandex Mail
+ mail.yandex.com
+ yandex.com
+ yandex.ru
+ mail.yandex.ru
+
+# Mail.ru
+ mail.ru
+ e.mail.ru
+ account.mail.ru
+
+# Naver Mail
+ mail.naver.com
+ naver.com
+ www.naver.com
+
+# Daum Mail
+ mail.daum.net
+ daum.net
+
+# QQ Mail
+ mail.qq.com
+ qq.com
+ www.qq.com
+
+# 163 Mail
+ mail.163.com
+ 163.com
+
+# 126 Mail
+ mail.126.com
+ 126.com
+
+# Sina Mail
+ mail.sina.com.cn
+ sina.com.cn
+
+# Rediffmail
+ rediffmail.com
+ mail.rediff.com
+ rediff.com
+
+# Hushmail
+ hushmail.com
+ www.hushmail.com
+
+# Runbox
+ runbox.com
+ www.runbox.com
+
+# Posteo
+ posteo.de
+ www.posteo.de
+
+# Migadu
+ migadu.com
+ www.migadu.com
+
+# Mailfence
+ mailfence.com
+ www.mailfence.com
+
+# Lycos Mail
+ mail.lycos.com
+ lycos.com
+
+# Inbox.lv
+ inbox.lv
+ www.inbox.lv
+
+# Seznam Email
+ email.seznam.cz
+ seznam.cz
+
+# Orange Mail
+ mail.orange.fr
+ orange.fr
+
+# Free.fr Mail
+ webmail.free.fr
+ free.fr
+
+# Rackspace Email
+ apps.rackspace.com
+ rackspace.com
+
+# ==========================================================
+# STREAMING
+# ==========================================================
+
+# YouTube
+ youtube.com
+ www.youtube.com
+ m.youtube.com
+ music.youtube.com
+ studio.youtube.com
+ youtu.be
+ youtube-nocookie.com
+ www.youtube-nocookie.com
+
+# Netflix
+ netflix.com
+ www.netflix.com
+ signup.netflix.com
+ help.netflix.com
+
+# Disney+
+ disneyplus.com
+ www.disneyplus.com
+ disneyplus.disney.com
+
+# Hulu
+ hulu.com
+ www.hulu.com
+ help.hulu.com
+
+# Amazon Prime Video
+ primevideo.com
+ www.primevideo.com
+ watch.amazon.com
+
+# Max (HBO Max)
+ max.com
+ www.max.com
+ play.max.com
+
+# Twitch
+ twitch.tv
+ www.twitch.tv
+ m.twitch.tv
+
+# Crunchyroll
+ crunchyroll.com
+ www.crunchyroll.com
+ beta.crunchyroll.com
+
+# Peacock
+ peacocktv.com
+ www.peacocktv.com
+
+# Paramount+
+ paramountplus.com
+ www.paramountplus.com
+
+# Apple TV+
+ tv.apple.com
+ apple.com/apple-tv-plus
+
+# Discovery+
+ discoveryplus.com
+ www.discoveryplus.com
+
+# ESPN+
+ plus.espn.com
+ watch.espn.com
+
+# DAZN
+ dazn.com
+ www.dazn.com
+
+# FuboTV
+ fubo.tv
+ www.fubo.tv
+
+# Sling TV
+ sling.com
+ watch.sling.com
+
+# Pluto TV
+ pluto.tv
+ www.pluto.tv
+
+# Tubi
+ tubitv.com
+ www.tubitv.com
+
+# Roku Channel
+ therokuchannel.roku.com
+ roku.com
+
+# MGM+
+ mgmplus.com
+ www.mgmplus.com
+
+# Crackle
+ crackle.com
+ www.crackle.com
+
+# Vudu / Fandango at Home
+ vudu.com
+ www.vudu.com
+ fandangoathome.com
+
+# Bilibili
+ bilibili.com
+ www.bilibili.com
+
+# iQIYI
+ iq.com
+ www.iq.com
+ iqiyi.com
+
+# WeTV
+ wetv.vip
+ www.wetv.vip
+
+# Viki
+ viki.com
+ www.viki.com
+
+# Dailymotion
+ dailymotion.com
+ www.dailymotion.com
+
+# Vimeo
+ vimeo.com
+ www.vimeo.com
+ player.vimeo.com
+
+# Kick
+ kick.com
+ www.kick.com
+
+# Rumble
+ rumble.com
+ www.rumble.com
+
+# ==========================================================
+# GAMES
+# ==========================================================
+
+# Steam
+ steampowered.com
+ www.steampowered.com
+ store.steampowered.com
+ help.steampowered.com
+ steamcommunity.com
+ www.steamcommunity.com
+ steamstatic.com
+
+# Epic Games
+ epicgames.com
+ www.epicgames.com
+ store.epicgames.com
+ launcher.epicgames.com
+ unrealengine.com
+ www.unrealengine.com
+
+# Roblox
+ roblox.com
+ www.roblox.com
+ create.roblox.com
+ web.roblox.com
+ auth.roblox.com
+
+# Riot Games
+ riotgames.com
+ www.riotgames.com
+ account.riotgames.com
+ support.riotgames.com
+ leagueoflegends.com
+ www.leagueoflegends.com
+ playvalorant.com
+ www.playvalorant.com
+ wildrift.leagueoflegends.com
+ teamfighttactics.leagueoflegends.com
+
+# Blizzard / Battle.net
+ battle.net
+ us.battle.net
+ eu.battle.net
+ account.battle.net
+ blizzard.com
+ www.blizzard.com
+
+# Electronic Arts
+ ea.com
+ www.ea.com
+ origin.com
+ www.origin.com
+ help.ea.com
+
+# Ubisoft
+ ubisoft.com
+ www.ubisoft.com
+ connect.ubisoft.com
+ account.ubisoft.com
+
+# Xbox
+ xbox.com
+ www.xbox.com
+ account.xbox.com
+ gamepass.com
+
+# PlayStation
+ playstation.com
+ www.playstation.com
+ store.playstation.com
+ my.playstation.com
+ direct.playstation.com
+
+# Nintendo
+ nintendo.com
+ www.nintendo.com
+ accounts.nintendo.com
+ mynintendo.com
+
+# Minecraft
+ minecraft.net
+ www.minecraft.net
+ launcher.mojang.com
+ mojang.com
+ www.mojang.com
+
+# RuneScape
+ runescape.com
+ www.runescape.com
+ secure.runescape.com
+
+# Jagex
+ jagex.com
+ www.jagex.com
+
+# GOG
+ gog.com
+ www.gog.com
+
+# Discord Gaming
+ discord.com
+ www.discord.com
+ discord.gg
+ discordapp.com
+
+# Tencent Games
+ tencentgames.com
+ www.tencentgames.com
+
+# Garena
+ garena.com
+ www.garena.com
+ account.garena.com
+
+# Free Fire
+ ff.garena.com
+
+# PUBG
+ pubg.com
+ www.pubg.com
+ battlegrounds.pubg.com
+
+# Krafton
+ krafton.com
+ www.krafton.com
+
+# Call of Duty
+ callofduty.com
+ www.callofduty.com
+ profile.callofduty.com
+
+# Activision
+ activision.com
+ www.activision.com
+
+# Bethesda
+ bethesda.net
+ www.bethesda.net
+ account.bethesda.net
+
+# Rockstar Games
+ rockstargames.com
+ www.rockstargames.com
+ socialclub.rockstargames.com
+
+# Take-Two
+ take2games.com
+ www.take2games.com
+
+# Warframe
+ warframe.com
+ www.warframe.com
+
+# Path of Exile
+ pathofexile.com
+ www.pathofexile.com
+
+# ArenaNet / Guild Wars
+ arena.net
+ www.arena.net
+ guildwars2.com
+ www.guildwars2.com
+
+# Faceit
+ faceit.com
+ www.faceit.com
+
+# Nexus Mods
+ nexusmods.com
+ www.nexusmods.com
+
+# ==========================================================
+# SHOPPING
+# ==========================================================
+
+# Amazon
+ amazon.com
+ www.amazon.com
+ smile.amazon.com
+ amazon.co.uk
+ amazon.ca
+ amazon.com.au
+ amazon.de
+ amazon.fr
+ amazon.it
+ amazon.es
+ amazon.co.jp
+ amazon.in
+
+# eBay
+ ebay.com
+ www.ebay.com
+ signin.ebay.com
+ ebay.co.uk
+ ebay.ca
+ ebay.com.au
+
+# Temu
+ temu.com
+ www.temu.com
+
+# AliExpress
+ aliexpress.com
+ www.aliexpress.com
+ login.aliexpress.com
+
+# Alibaba
+ alibaba.com
+ www.alibaba.com
+
+# Shopee
+ shopee.com
+ www.shopee.com
+ shopee.ph
+ www.shopee.ph
+ seller.shopee.ph
+
+# Lazada
+ lazada.com
+ www.lazada.com
+ lazada.com.ph
+ www.lazada.com.ph
+ sellercenter.lazada.com.ph
+
+# Walmart
+ walmart.com
+ www.walmart.com
+
+# Target
+ target.com
+ www.target.com
+
+# Best Buy
+ bestbuy.com
+ www.bestbuy.com
+
+# Etsy
+ etsy.com
+ www.etsy.com
+
+# Rakuten
+ rakuten.com
+ www.rakuten.com
+ rakuten.co.jp
+
+# Newegg
+ newegg.com
+ www.newegg.com
+
+# Mercado Libre
+ mercadolibre.com
+ www.mercadolibre.com
+ mercado libre.com.ar
+
+# Flipkart
+ flipkart.com
+ www.flipkart.com
+
+# JD.com
+ jd.com
+ www.jd.com
+
+# Pinduoduo
+ pinduoduo.com
+ www.pinduoduo.com
+
+# Taobao
+ taobao.com
+ www.taobao.com
+
+# Tmall
+ tmall.com
+ www.tmall.com
+
+# Shein
+ shein.com
+ www.shein.com
+
+# Wayfair
+ wayfair.com
+ www.wayfair.com
+
+# Overstock
+ overstock.com
+ www.overstock.com
+
+# Costco
+ costco.com
+ www.costco.com
+
+# Sam's Club
+ samsclub.com
+ www.samsclub.com
+
+# Home Depot
+ homedepot.com
+ www.homedepot.com
+
+# Lowe's
+ lowes.com
+ www.lowes.com
+
+# Macy's
+ macys.com
+ www.macys.com
+
+# Kohl's
+ kohls.com
+ www.kohls.com
+
+# Zalando
+ zalando.com
+ www.zalando.com
+
+# ASOS
+ asos.com
+ www.asos.com
+
+# Wish
+ wish.com
+ www.wish.com
+
+ amazon.sg
+ amazon.ae
+ amazon.nl
+
+ shopee.sg
+ shopee.com.my
+ shopee.co.id
+ shopee.vn
+ shopee.co.th
+
+ lazada.sg
+ lazada.co.th
+ lazada.co.id
+ lazada.com.my
+ lazada.vn
+
+# ==========================================================
+# FORUMS
+# ==========================================================
+
+# Reddit
+ reddit.com
+ www.reddit.com
+ old.reddit.com
+ np.reddit.com
+ i.reddit.com
+ new.reddit.com
+ sh.reddit.com
+
+# Quora
+ quora.com
+ www.quora.com
+
+# Stack Overflow
+ stackoverflow.com
+ www.stackoverflow.com
+
+# Stack Exchange Network
+ stackexchange.com
+ www.stackexchange.com
+ serverfault.com
+ superuser.com
+ askubuntu.com
+ mathoverflow.net
+
+# XDA Developers
+ xda-developers.com
+ www.xda-developers.com
+ forum.xda-developers.com
+
+# Tom's Hardware
+ tomshardware.com
+ forums.tomshardware.com
+
+# AnandTech
+ anandtech.com
+ forums.anandtech.com
+
+# Linus Tech Tips
+ linustechtips.com
+ forum.linustechtips.com
+
+# Spiceworks
+ spiceworks.com
+ community.spiceworks.com
+
+# Wilders Security
+ wilderssecurity.com
+ www.wilderssecurity.com
+
+# MajorGeeks Forums
+ majorgeeks.com
+ forums.majorgeeks.com
+
+# Bleeping Computer Forums
+ bleepingcomputer.com
+ www.bleepingcomputer.com
+
+# TechPowerUp
+ techpowerup.com
+ www.techpowerup.com
+
+# Overclock.net
+ overclock.net
+ www.overclock.net
+
+# AVS Forum
+ avsforum.com
+ www.avsforum.com
+
+# Ars Technica Forums
+ arstechnica.com
+ arstechnica.com/civis
+
+# NeoGAF
+ neogaf.com
+ www.neogaf.com
+
+# ResetEra
+ resetera.com
+ www.resetera.com
+
+# Something Awful
+ somethingawful.com
+ forums.somethingawful.com
+
+# MyAnimeList Forums
+ myanimelist.net
+ forum.myanimelist.net
+
+# IGN Boards
+ ign.com
+ www.ign.com
+ forums.ign.com
+
+# GameFAQs
+ gamefaqs.gamespot.com
+ gamefaqs.com
+
+# Whirlpool
+ whirlpool.net.au
+ forums.whirlpool.net.au
+
+# LinuxQuestions
+ linuxquestions.org
+ www.linuxquestions.org
+
+# Ubuntu Forums
+ ubuntuforums.org
+ www.ubuntuforums.org
+
+# Arch Linux Forums
+ bbs.archlinux.org
+
+# OpenSUSE Forums
+ forums.opensuse.org
+
+# Fedora Discussion
+ discussion.fedoraproject.org
+
+# VMware Community
+ communities.vmware.com
+
+# Cisco Community
+ community.cisco.com
+
+# Dell Community
+ dell.com/community
+
+# ==========================================================
+# PEER-TO-PEER (P2P) / TORRENTS
+# ==========================================================
+
+# The Pirate Bay
+ thepiratebay.org
+ www.thepiratebay.org
+ pirateproxy.live
+ piratebayproxy.net
+
+# 1337x
+ 1337x.to
+ www.1337x.to
+ 1337x.st
+ x1337x.ws
+
+# TorrentGalaxy
+ torrentgalaxy.to
+ www.torrentgalaxy.to
+ tgx.rs
+ torrentgalaxy.mx
+
+# Nyaa
+ nyaa.si
+ www.nyaa.si
+ sukebei.nyaa.si
+
+# YTS
+ yts.mx
+ www.yts.mx
+ yts.rs
+
+# EZTV
+ eztv.re
+ www.eztv.re
+ eztv.wf
+
+# LimeTorrents
+ limetorrents.lol
+ www.limetorrents.lol
+ limetorrent.ws
+
+# TorrentDownloads
+ torrentdownloads.pro
+ www.torrentdownloads.pro
+
+# Torlock
+ torlock.com
+ www.torlock.com
+
+# Zooqle
+ zooqle.com
+ www.zooqle.com
+
+# MagnetDL
+ magnetdl.com
+ www.magnetdl.com
+
+# TorrentFunk
+ torrentfunk.com
+ www.torrentfunk.com
+
+# BTDigg
+ btdig.com
+ www.btdig.com
+
+# SolidTorrents
+ solidtorrents.to
+ www.solidtorrents.to
+
+# TorrentQuest
+ torrentquest.com
+ www.torrentquest.com
+
+# AIO Search
+ aiosearch.com
+ www.aiosearch.com
+
+# TorrentProject
+ torrentproject2.com
+ www.torrentproject2.com
+
+# iDope
+ idope.se
+ www.idope.se
+
+# BitCQ
+ bitcq.com
+ www.bitcq.com
+
+# Snowfl
+ snowfl.com
+ www.snowfl.com
+
+# Demonoid
+ demonoid.is
+ www.demonoid.is
+
+# IPTorrents
+ iptorrents.com
+ www.iptorrents.com
+
+# TorrentLeech
+ torrentleech.org
+ www.torrentleech.org
+
+# FileList
+ filelist.io
+ www.filelist.io
+
+# TorrentDay
+ torrentday.com
+ www.torrentday.com
+
+# MyAnonamouse
+ myanonamouse.net
+ www.myanonamouse.net
+
+# RuTracker
+ rutracker.org
+ www.rutracker.org
+
+# BitTorrent
+ bittorrent.com
+ www.bittorrent.com
+
+# uTorrent
+ utorrent.com
+ www.utorrent.com
+
+# qBittorrent
+ qbittorrent.org
+ www.qbittorrent.org
+
+# Transmission
+ transmissionbt.com
+ www.transmissionbt.com
+
+# Deluge
+ deluge-torrent.org
+ www.deluge-torrent.org
+
+# Vuze
+ vuze.com
+ www.vuze.com
+
+# FrostWire
+ frostwire.com
+ www.frostwire.com
+
+# eMule
+ emule-project.net
+ www.emule-project.net
+
+# Soulseek
+ slsknet.org
+ www.slsknet.org
+
+# ==========================================================
+# ADULT
+# ==========================================================
+
+# Pornhub
+ pornhub.com
+ www.pornhub.com
+ m.pornhub.com
+
+# XVideos
+ xvideos.com
+ www.xvideos.com
+ m.xvideos.com
+
+# XNXX
+ xnxx.com
+ www.xnxx.com
+ m.xnxx.com
+
+# xHamster
+ xhamster.com
+ www.xhamster.com
+ m.xhamster.com
+
+# RedTube
+ redtube.com
+ www.redtube.com
+
+# YouPorn
+ youporn.com
+ www.youporn.com
+
+# Tube8
+ tube8.com
+ www.tube8.com
+
+# SpankBang
+ spankbang.com
+ www.spankbang.com
+
+# TNAFlix
+ tnaflix.com
+ www.tnaflix.com
+
+# Thumbzilla
+ thumbzilla.com
+ www.thumbzilla.com
+
+# Porn.com
+ porn.com
+ www.porn.com
+
+# Porn300
+ porn300.com
+ www.porn300.com
+
+# SunPorno
+ sunporno.com
+ www.sunporno.com
+
+# HQPorner
+ hqporner.com
+ www.hqporner.com
+
+# Eporner
+ eporner.com
+ www.eporner.com
+
+# DaftSex
+ daftsex.com
+ www.daftsex.com
+
+# Beeg
+ beeg.com
+ www.beeg.com
+
+# DrTuber
+ drtuber.com
+ www.drtuber.com
+
+# Nuvid
+ nuvid.com
+ www.nuvid.com
+
+# Motherless
+ motherless.com
+ www.motherless.com
+
+# OnlyFans
+ onlyfans.com
+ www.onlyfans.com
+
+# Fansly
+ fansly.com
+ www.fansly.com
+
+# Chaturbate
+ chaturbate.com
+ www.chaturbate.com
+
+# Stripchat
+ stripchat.com
+ www.stripchat.com
+
+# BongaCams
+ bongacams.com
+ www.bongacams.com
+
+# LiveJasmin
+ livejasmin.com
+ www.livejasmin.com
+
+# CamSoda
+ camsoda.com
+ www.camsoda.com
+
+# MyFreeCams
+ myfreecams.com
+ www.myfreecams.com
+
+# Cam4
+ cam4.com
+ www.cam4.com
+
+# AdultFriendFinder
+ adultfriendfinder.com
+ www.adultfriendfinder.com
+
+# Brazzers
+ brazzers.com
+ www.brazzers.com
+
+# Reality Kings
+ realitykings.com
+ www.realitykings.com
+
+# Naughty America
+ naughtyamerica.com
+ www.naughtyamerica.com
+
+# Bang Bros
+ bangbros.com
+ www.bangbros.com
+
+# Digital Playground
+ digitalplayground.com
+ www.digitalplayground.com
+
+# Team Skeet
+ teamskeet.com
+ www.teamskeet.com
+
+# Mofos
+ mofos.com
+ www.mofos.com
+
+# Evil Angel
+ evilangel.com
+ www.evilangel.com
+
+# Jules Jordan
+ julesjordan.com
+ www.julesjordan.com
+
+# Private
+ private.com
+ www.private.com
+# ==========================================================
+# ARTIFICIAL INTELLIGENCE (AI)
+# ==========================================================
+
+# ChatGPT
+ chatgpt.com
+ www.chatgpt.com
+ chat.openai.com
+ platform.openai.com
+ labs.openai.com
+ openai.com
+ www.openai.com
+
+# Claude
+ claude.ai
+ www.claude.ai
+ anthropic.com
+ www.anthropic.com
+ console.anthropic.com
+
+# Google Gemini
+ gemini.google.com
+ gemini.google
+ aistudio.google.com
+
+# Microsoft Copilot
+ copilot.microsoft.com
+ copilot.cloud.microsoft
+ copilot.ai
+
+# Perplexity
+ perplexity.ai
+ www.perplexity.ai
+
+# Grok
+ grok.com
+ www.grok.com
+ x.ai
+ www.x.ai
+
+# DeepSeek
+ deepseek.com
+ www.deepseek.com
+ chat.deepseek.com
+
+# Mistral
+ mistral.ai
+ www.mistral.ai
+ chat.mistral.ai
+ console.mistral.ai
+
+# Meta AI
+ ai.meta.com
+ meta.ai
+ www.meta.ai
+
+# Character.AI
+ character.ai
+ www.character.ai
+ beta.character.ai
+
+# Poe
+ poe.com
+ www.poe.com
+
+# You.com
+ you.com
+ www.you.com
+
+# Phind
+ phind.com
+ www.phind.com
+
+# Andi
+ andisearch.com
+ www.andisearch.com
+
+# Blackbox AI
+ blackbox.ai
+ www.blackbox.ai
+
+# Monica
+ monica.im
+ www.monica.im
+
+# Merlin
+ getmerlin.in
+ www.getmerlin.in
+
+# Jasper
+ jasper.ai
+ www.jasper.ai
+
+# Writesonic
+ writesonic.com
+ www.writesonic.com
+ chatsonic.com
+ www.chatsonic.com
+
+# Copy.ai
+ copy.ai
+ www.copy.ai
+
+# Rytr
+ rytr.me
+ www.rytr.me
+
+# Grammarly AI
+ grammarly.com
+ www.grammarly.com
+ app.grammarly.com
+
+# Notion AI
+ notion.so
+ www.notion.so
+
+# Gamma
+ gamma.app
+ www.gamma.app
+
+# Tome
+ tome.app
+ www.tome.app
+
+# Midjourney
+ midjourney.com
+ www.midjourney.com
+
+# Leonardo AI
+ leonardo.ai
+ www.leonardo.ai
+ app.leonardo.ai
+
+# Ideogram
+ ideogram.ai
+ www.ideogram.ai
+
+# Playground AI
+ playground.com
+ www.playground.com
+
+# Runway
+ runwayml.com
+ www.runwayml.com
+ app.runwayml.com
+
+# Pika
+ pika.art
+ www.pika.art
+
+# Higgsfield
+ higgsfield.ai
+ www.higgsfield.ai
+
+# Suno
+ suno.com
+ www.suno.com
+
+# Udio
+ udio.com
+ www.udio.com
+
+# ElevenLabs
+ elevenlabs.io
+ www.elevenlabs.io
+
+# HeyGen
+ heygen.com
+ www.heygen.com
+
+# Synthesia
+ synthesia.io
+ www.synthesia.io
+
+# Replit AI
+ replit.com
+ www.replit.com
+
+# Bolt.new
+ bolt.new
+
+# Lovable
+ lovable.dev
+ www.lovable.dev
+
+# Cursor
+ cursor.com
+ www.cursor.com
+
+# Windsurf
+ windsurf.com
+ www.windsurf.com
+
+# Cline
+ cline.bot
+
+# Continue
+ continue.dev
+ www.continue.dev
+
+# Tabnine
+ tabnine.com
+ www.tabnine.com
+
+# Codeium
+ codeium.com
+ www.codeium.com
+
+# Sourcegraph Cody
+ sourcegraph.com
+ cody.sourcegraph.com
