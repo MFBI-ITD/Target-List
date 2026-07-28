@@ -27,3 +27,6 @@ captive.apple.com
 www.apple.com
 apple.com
 gstatic.com
+www.msftconnecttest.com
+www.msftncsi.com
+dns.msftncsi.com
