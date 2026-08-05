@@ -1588,19 +1588,3 @@ www.tabnine.com
 codeium.com
 www.codeium.com
 
-#SourcegraphCody
-sourcegraph.com
-cody.sourcegraph.com
-#GoogleAds/DoubleClick
-216.58.192.0/19
-172.217.0.0/16
-#FacebookAds/Tracking
-31.13.64.0/18
-#AppleAds
-17.0.0.0/8
-#MicrosoftAds
-40.76.0.0/14
-#Criteo/Taboola/Outbrain
-185.60.216.0/22
-185.93.228.0/22
-192.229.232.0/22
