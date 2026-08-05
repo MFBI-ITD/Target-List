@@ -156,18 +156,6 @@ www.parler.com
 #SEARCHENGINES
 #==========================================================
 
-#GoogleSearch
-google.com
-www.google.com
-encrypted.google.com
-search.google.com
-google.com.ph
-www.google.com.ph
-google.co.uk
-google.ca
-google.com.au
-google.co.jp
-
 #Bing
 bing.com
 www.bing.com
