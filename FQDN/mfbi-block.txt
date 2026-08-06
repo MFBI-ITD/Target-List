@@ -293,6 +293,7 @@ gmail.com
 www.gmail.com
 mail.google.com
 inbox.google.com
+accounts.google.com
 
 #YahooMail
 mail.yahoo.com
