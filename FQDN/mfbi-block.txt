@@ -84,10 +84,6 @@ www.wechat.com
 line.me
 www.line.me
 
-#Viber
-viber.com
-www.viber.com
-
 #Signal
 signal.org
 www.signal.org
@@ -1117,6 +1113,10 @@ www.solidtorrents.to
 #TorrentQuest
 torrentquest.com
 www.torrentquest.com
+
+#google
+google.com
+www.google.com
 
 #AIOSearch
 aiosearch.com
