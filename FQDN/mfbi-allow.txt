@@ -22,6 +22,7 @@
 52.94.0.0/15
 52.95.0.0/16
 52.219.32.0/20
+cdnjs.cloudflare.com
 connectivitycheck.gstatic.com
 connectivitycheck.android.com
 captive.apple.com
