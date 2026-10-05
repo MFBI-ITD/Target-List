@@ -130,6 +130,8 @@ consent.cookiebot.com
 consentcdn.cookiebot.com
 www.eatright.org
 challenges.cloudflare.com
+challenges.cloudflare.net
+dash.cloudflare.com
 dsld.od.nih.gov
 cdn-gggof.nitrocdn.com
 mariefrance.com.ph
