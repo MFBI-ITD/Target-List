@@ -139,5 +139,16 @@ to.getnitropack.com
 www.googletagmanager.com
 cdn-ileojen.nitrocdn.com
 svenson.com.ph
+#Svenson QR
 ec2-13-124-113-251.ap-northeast-2.compute.amazonaws.com
 kcscopes-result.s3.ap-northeast-2.amazonaws.com
+#WavFlow
+194.233.89.160
+wavflow6nxt.wavhub.global
+194.233.77.60
+wavhy.wav.global
+vmi3279880.contaboserver.net
+147.93.157.48
+wavflow6.wav.global
+
+
