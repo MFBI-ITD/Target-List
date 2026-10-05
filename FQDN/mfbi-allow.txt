@@ -14,7 +14,6 @@
 18.192.196.192/29
 18.200.212.0/22
 18.201.0.0/16
-52.84.0.0/15
 52.95.245.0/24
 52.219.0.0/20
 52.216.0.0/15
@@ -132,5 +131,9 @@ consentcdn.cookiebot.com
 www.eatright.org
 challenges.cloudflare.com
 dsld.od.nih.gov
-
-
+cdn-gggof.nitrocdn.com
+mariefrance.com.ph
+to.getnitropack.com
+www.googletagmanager.com
+cdn-ileojen.nitrocdn.com
+svenson.com.ph
