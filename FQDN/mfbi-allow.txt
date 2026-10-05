@@ -119,5 +119,18 @@ websocket.mfbi.com.ph
 wmp.mfbi.com.ph
 wsmfdc.mfbi.com.ph
 wssets.mfbi.com.ph
+minieat.mayoclinic.org
+mayoclinic.org
+mdcalc.com
+www.mims.com
+mims.com
+hostname
+dap.digitalgov.gov
+fdc.nal.usda.gov
+consent.cookiebot.com
+consentcdn.cookiebot.com
+www.eatright.org
+challenges.cloudflare.com
+dsld.od.nih.gov
 
 
