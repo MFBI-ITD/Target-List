@@ -23,3 +23,7 @@ www-test.visbody.ai
 www.visbody.ai
 www.visbodyfit.com
 ec2-15-237-9-245.eu-west-3.compute.amazonaws.com
+assistant-h5.visbody.com
+moti.visbody.ai
+matomo.visbodyfit.com
+admin.visbody.ai
