@@ -120,6 +120,7 @@ cdn-gggof.nitrocdn.com
 cdn-ileojen.nitrocdn.com
 cdnjs.cloudflare.com
 cdn.jsdelivr.net
+cdn.socket.io
 cir.mfbi.com.ph
 cloud.mfbi.com.ph
 commerceone.mfbi.com.ph
