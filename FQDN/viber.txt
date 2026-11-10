@@ -1157,3 +1157,9 @@ zimbra.viber.net
 zimbra1.viber.net
 zmail.viber.net
 zoho.viber.com
+viber.com
+viberdns.com
+viber.net
+vb.me
+rakuten.com
+rakuten.net
