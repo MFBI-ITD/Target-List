@@ -170,7 +170,6 @@ host.9.static.mfbi.com.ph
 host.10.static.mfbi.com.ph
 host.11.static.mfbi.com.ph
 host.12.static.mfbi.com.ph
-hostname
 icons.mfbi.com.ph
 igmp.mcast.net
 ims.mfbi.com.ph
@@ -295,3 +294,4 @@ www.msftncsi.com
 wsmfdc.mfbi.com.ph
 wssets.mfbi.com.ph
 wsus.mfbi.com.ph
+192.168.8.247
